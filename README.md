@@ -27,7 +27,7 @@ Smart [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  Custom Nodes
 |[ComfyUI_Comfyroll_CustomNodes](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)|more basic effective nodes|☆☆☆|
 |[ComfyUI-Advanced-ControlNet](https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet)|controlnet executive nodes|☆☆☆☆☆|
 |[ComfyUI-AnimateLCM](https://github.com/dezi-ai/ComfyUI-AnimateLCM)|AnimateLCM Implementation|☆☆☆|
-|[https://github.com/ssitu/ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)|Upscaler Nodes|☆☆☆|
+|[ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)|Upscaler Nodes|☆☆☆|
 |[comfyui_segment_anything](https://github.com/storyicon/comfyui_segment_anything)|Segment by text Nodes|☆☆☆☆|
 |[ComfyUI-post-processing-nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes)|Post processor Nodes|☆☆☆☆|
 |[ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation)|Video Frame Interpolation Nodes|☆☆☆☆|
