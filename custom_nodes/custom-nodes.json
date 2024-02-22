@@ -1,0 +1,87 @@
+[{
+    "index": 1,
+    "name": "ComfyUI-Manager",
+    "url": "https://github.com/ltdrdata/ComfyUI-Manager.git"
+}, {
+    "index": 2,
+    "name": "comfyui-workspace-manager",
+    "url": "https://github.com/11cafe/comfyui-workspace-manager.git"
+}, {
+    "index": 3,
+    "name": "ComfyUI-AnimateDiff-Evolved",
+    "url": "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git"
+}, {
+    "index": 4,
+    "name": "ComfyUI_IPAdapter_plus",
+    "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus.git"
+}, {
+    "index": 5,
+    "name": "AIGODLIKE-ComfyUI-Translation",
+    "url": "https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation.git"
+}, {
+    "index": 6,
+    "name": "ComfyUI-InstantID",
+    "url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID.git"
+}, {
+    "index": 7,
+    "name": "comfyui-reactor-node",
+    "url": "https://github.com/Gourieff/comfyui-reactor-node.git"
+}, {
+    "index": 8,
+    "name": "ControlNet-LLLite-ComfyUI",
+    "url": "https://github.com/kohya-ss/ControlNet-LLLite-ComfyUI.git"
+}, {
+    "index": 9,
+    "name": "efficiency-nodes-comfyui",
+    "url": "https://github.com/jags111/efficiency-nodes-comfyui.git"
+}, {
+    "index": 10,
+    "name": "was-node-suite-comfyui",
+    "url": "https://github.com/WASasquatch/was-node-suite-comfyui.git"
+}, {
+    "index": 11,
+    "name": "comfyui-mixlab-nodes",
+    "url": "https://github.com/shadowcz007/comfyui-mixlab-nodes.git"
+}, {
+    "index": 12,
+    "name": "ComfyUI-Impact-Pack",
+    "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack.git"
+}, {
+    "index": 13,
+    "name": "ComfyUI-Inspire-Pack",
+    "url": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack.git"
+}, {
+    "index": 14,
+    "name": "comfyui_controlnet_aux",
+    "url": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
+}, {
+    "index": 15,
+    "name": "ComfyUI_Comfyroll_CustomNodes",
+    "url": "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git"
+}, {
+    "index": 16,
+    "name": "ComfyUI-Advanced-ControlNet",
+    "url": "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git"
+}, {
+    "index": 17,
+    "name": "ComfyUI-AnimateLCM",
+    "url": "https://github.com/dezi-ai/ComfyUI-AnimateLCM.git"
+}, {
+    "index": 18,
+    "name": "ComfyUI_UltimateSDUpscale",
+    "url": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale.git"
+}, {
+    "index": 19,
+    "name": "comfyui_segment_anything",
+    "url": "https://github.com/storyicon/comfyui_segment_anything.git"
+}, {
+    "index": 20,
+    "name": "ComfyUI-post-processing-nodes",
+    "url": "https://github.com/EllangoK/ComfyUI-post-processing-nodes.git"
+}, {
+    "index": 21,
+    "name": "ComfyUI-Frame-Interpolation",
+    "url": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git"
+}
+
+]
