@@ -32,3 +32,32 @@ Smart [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  Custom Nodes
 |20|[ComfyUI-post-processing-nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes)|Post processor Nodes|☆☆☆☆|
 |21|[ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation)|Video Frame Interpolation Nodes|☆☆☆☆|
 
+### Installation Nodes (Batch)
+#### Prerequisites
+You have installed NodeJS
+
+verify NodeJS environment
+```
+node --version
+npm --version
+```
+
+### Installation Nodes
+execute run.bat shell
+
+Windows
+```
+cd ComfyUI-Classical-Nodes
+.\run.bat
+```
+
+Linux/MacOS
+```
+cd ComfyUI-Classical-Nodes
+chmod +x run.sh
+./run.sh
+```
+
+![ref installtion](ref_installation.png)
+
+

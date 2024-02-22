@@ -31,3 +31,31 @@
 |19|[comfyui_segment_anything](https://github.com/storyicon/comfyui_segment_anything)|语义分割节点|☆☆☆☆|
 |20|[ComfyUI-post-processing-nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes)|后处理节点|☆☆☆☆|
 |21|[ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation)|动画补帧节点|☆☆☆☆|
+
+### 安装节点 (批量)
+#### 前提
+已安装NodeJS
+
+验证NodeJS环境
+```
+node --version
+npm --version
+```
+
+### 安装节点
+执行 run.bat 脚本
+
+Windows
+```
+cd ComfyUI-Classical-Nodes
+.\run.bat
+```
+
+Linux/MacOS
+```
+cd ComfyUI-Classical-Nodes
+chmod +x run.sh
+./run.sh
+```
+
+![ref installtion](ref_installation.png)
