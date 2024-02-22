@@ -42,6 +42,9 @@ node --version
 npm --version
 ```
 
+### Modify ComfyUI Installation Path
+Modify `ComfyUI_path.txt` which under `custom_nodes` directory. Clear content, write your real ComfyUI Installtion Path. Eg: T:\ai\comfyui-portable\ComfyUI
+
 ### Installation Nodes
 execute run.bat shell
 
