@@ -27,7 +27,7 @@
 |[ComfyUI_Comfyroll_CustomNodes](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)|一些提升效率的基础节点|☆☆☆|
 |[ComfyUI-Advanced-ControlNet](https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet)|controlnet执行节点|☆☆☆☆☆|
 |[ComfyUI-AnimateLCM](https://github.com/dezi-ai/ComfyUI-AnimateLCM)|AnimateLCM的实现|☆☆☆|
-|[https://github.com/ssitu/ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)|放大器节点|☆☆☆|
+|[ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)|放大器节点|☆☆☆|
 |[comfyui_segment_anything](https://github.com/storyicon/comfyui_segment_anything)|语义分割节点|☆☆☆☆|
 |[ComfyUI-post-processing-nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes)|后处理节点|☆☆☆☆|
 |[ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation)|动画补帧节点|☆☆☆☆|
