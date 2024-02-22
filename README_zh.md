@@ -42,6 +42,9 @@ node --version
 npm --version
 ```
 
+### 修改ComfyUI安装路径
+在custom_nodes下有个ComfyUI_path.txt，清空后填入你自己的ComfyUI的路径，像我这里是T:\ai\comfyui-portable\ComfyUI
+
 ### 安装节点
 执行 run.bat 脚本
 
